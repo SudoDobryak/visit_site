@@ -127,4 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/visit_site/visit_site/secret_set.py
+visit_site/visit_site/secret_set.py
